@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Stephen Poletto: Working with me"
-permalink: /spoletto
 ---
 
 # Stephen Poletto
@@ -41,8 +40,9 @@ I'm from the East Coast and appreciate **direct communication**. No
 sugarcoating --- tell me what you need, when something is off, or when I
 need to adjust.
 
-I value teammates who: - Focus on delighting customers\
-- Prioritize helping the company win\
+I value teammates who: 
+- Focus on delighting customers
+- Prioritize helping the company win
 - Make decisions anchored in these principles
 
 ## Behaviors That Slow Me Down
