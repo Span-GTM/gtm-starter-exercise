@@ -1,3 +1,7 @@
+layout: page
+title: "Stephen Poletto: Working with me"
+permalink: /spoletto
+
 # Stephen Poletto
 
 ## Role & Scope
