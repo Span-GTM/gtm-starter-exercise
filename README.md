@@ -6,3 +6,10 @@ You can find the documentation for working through this exercise [here](https://
 ## GTM Team Pages
 
 - [Stephen Poletto]({{ site.baseurl }}/pages/stephen-poletto)
+- [Al Nafea]({{ site.baseurl }}/pages/al-nafea)
+- [Charlotte Cerf]({{ site.baseurl }}/pages/Charlotte-Cerf)
+- [Eric Ren]({{ site.baseurl }}/pages/eric-ren)
+- [Janae Mari]({{ site.baseurl }}/pages/janae-mari)
+- [Kevin Norman]({{ site.baseurl }}/pages/kevin-norman)
+- [Kevin Woods]({{ site.baseurl }}/pages/kevin-woods)
+- [Parker Haney]({{ site.baseurl }}/pages/parker-haney)
