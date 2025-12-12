@@ -7,7 +7,7 @@ title: "Kevin Norman: Working with me"
 
 ## Role & Scope
 
-I’m an Account Executive at Span, responsible for bringing new business to Span. I partner with engineering, product, and finance leaders to understand their priorities and help them evaluate and adopt Span in a way that delivers clear, defensible outcomes.
+I’m an AE, responsible for bringing new business to Span. I partner with engineering, product, and finance leaders to understand their priorities and help them evaluate and adopt Span in a way that delivers clear, defensible outcomes.
 
 
 ## Communication Preferences
